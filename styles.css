@@ -69,3 +69,15 @@ footer {
   color: white;
   padding: 15px;
 }
+
+.stories {
+  color: #5a67d9;
+}
+
+.article-body{
+  color: #000000;
+}
+
+img {
+   border-radius: 25%;
+}
