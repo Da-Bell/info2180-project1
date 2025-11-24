@@ -30,3 +30,17 @@ body {
   background: #1abc9c;
   font-size: 20px;
 }
+
+.newsletter {
+  padding: 60px;
+  text-align: center;
+  background: #48bb78;
+  color: white;
+  font-size: 30px;
+}
+
+footer {
+  background: #4a5567;
+  color: white;
+  padding: 15px;
+}
