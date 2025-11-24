@@ -1,4 +1,18 @@
 /* Add your CSS to this file */
+header {
+    font-size: 18px;
+}
+
+nav ul {
+    display: flex;
+    position: sticky;
+    gap: 30px;
+    padding: 20px;
+    font-weight: 800;
+    font-color: black;
+    list-style: none;
+}
+
 body {
     margin: 0;
     font-size: 16px;
